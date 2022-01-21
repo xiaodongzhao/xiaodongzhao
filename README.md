@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaodongzhao
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning autonomous driving
+- 👀 I’m interested in software development
+- 🌱 I’m currently working on connected and autonomous vehicles
 
 <!---
 xiaodongzhao/xiaodongzhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
